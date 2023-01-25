@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768517854326",
+    "project_id": "learn-with-sounds",
+    "storage_bucket": "learn-with-sounds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768517854326:android:6a5a57d81b586565f3bb57",
+        "android_client_info": {
+          "package_name": "com.example.learn_with_sounds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768517854326-urudftdubhad357r6g8dt020ldjhhnc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiJLMYfy6KaLnSthNNIV0bV-vYVeHPXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768517854326-urudftdubhad357r6g8dt020ldjhhnc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
